@@ -1,6 +1,13 @@
 # CATALAGO_HARDWARE_AV3
 Avaliação 03 de sistema com autenticação utilizando firebase e utilização do backend.
 
+
+## Discentes
+
+* Erik de Souza Morais
+* Luiz Henrique Mota Xavier
+
+
 ## Como iniciar o projeto
 
 Para rodar o projeto localmente, siga estes passos simples:
@@ -15,7 +22,4 @@ Para rodar o projeto localmente, siga estes passos simples:
    npm run dev
    ```
 
-## Discentes
 
-* Erik de Souza Morais
-* Luiz Henrique Mota Xavier
